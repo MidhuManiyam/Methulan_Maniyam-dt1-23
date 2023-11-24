@@ -92,6 +92,13 @@ Special Functions in Bubble:
 ![image](https://github.com/MidhuManiyam/Methulan_Maniyam-dt1-23/assets/145026551/bda96af3-62cb-4e92-92b3-949f3e06d120)
 ![image](https://github.com/MidhuManiyam/Methulan_Maniyam-dt1-23/assets/145026551/66b2291f-2f0e-48fa-aa47-5e12d918166d)
 
+Adding Josh and Sid to the GitHub Repository: 
+![image](https://github.com/MidhuManiyam/Methulan_Maniyam-dt1-23/assets/145026551/e1777c48-e28e-409b-99db-3e6c7e50f0b8)
+
+
+
+
+
 
 
 
