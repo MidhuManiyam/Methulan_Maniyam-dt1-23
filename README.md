@@ -4,6 +4,11 @@ root@LenovoMidhu:/mnt/c/DT-1#  cd /mnt/c/DT-1/dt1-23
 root@LenovoMidhu:/mnt/c/DT-1/dt1-23# ls
 Dockerfile  Pipfile  Pipfile.lock  README.md  main.py
 
+root@LenovoMidhu:/mnt/c/DT-1/dt1-23# docker login
+Authenticating with existing credentials...
+Login Succeeded
+
+
 ![image](https://github.com/MidhuManiyam/Methulan_Maniyam-dt1-23/assets/145026551/2da540da-a936-4cf0-838b-7d49f4d1999d)
 
 Dockerhub and push image:
